@@ -9,7 +9,7 @@ baseurl: ""
 # 站点的语言 › https://www.w3.org/International/questions/qa-choosing-language-tags
 # 如果在文件夹 `_data/locales` 下存在同名文件，则布局语言也会改变，
 # 否则，布局语言使用默认值 'en'。
-lang: zh-CN
+lang: en
 
 # 修改为你的时区 › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Shanghai
