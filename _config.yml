@@ -18,10 +18,10 @@ timezone: Asia/Shanghai
 # --------------------------
 title: MIRACLE # 主标题
 
-tagline: Nichts Hsu # 副标题
+tagline: Let's Fucking go # 副标题
 
 description: >- # 由 seo meta 和 atom feed 使用
-  Nichts Hsu 的个人博客
+  0xmiracle's blog
 
 # 填入你的网站的协议和域名，例如，'https://username.github.io'
 url: "https://0xmiracle.xyz"
@@ -41,20 +41,20 @@ social:
   email: NichtsVonChaos@gmail.com # 邮箱地址
   links:
     # 第一个链接将会作为版权所有者的链接
-    - https://nihil.cc/
+    - https://0xmiracle.xyz/
     - https://twitter.com/NichtsHsu # 推特主页
     - https://github.com/NichtsHsu # Github 主页
     # 取消注释以添加更多链接
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: # 填入你的认证字符串
+google_site_verification: <meta name="google-site-verification" content="NvFFsrSMyY-1AdUkeC2I2hQldmNd9gadJYBq0ObXLgA" /> # 填入你的认证字符串
 
 # ↑ --------------------------
 # `jekyll-seo-tag` 设置结束
 
 google_analytics:
-  id: # 填入你的 Google Analytics ID
+  id: G-H023KL9MWX # 填入你的 Google Analytics ID
 
 # 设置首选配色方案
 #
