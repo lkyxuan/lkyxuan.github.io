@@ -10,7 +10,7 @@
   icon: https://img.shields.io/badge/link-cyberight-orange.svg
   # 是否使用 Iconfont 的图标字体
   use_iconfont: false
-  name: CYBERIGHT
+  name: cyberight
   # 为 true 时当且仅当图片无法加载时，使用名字替代。为 false 时始终显示名字。
   automatic_name: true
   link: https://cyberight.capital
