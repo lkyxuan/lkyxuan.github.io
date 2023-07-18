@@ -29,16 +29,16 @@ url: "https://0xmiracle.xyz"
 author: 0xmiracle # 全名
 
 github:
-  username: NichtsHsu # Github 用户名
+  username: lkyxuan # Github 用户名
 
 twitter:
-  username: NichtsHsu # 推特用户名
+  username: 0xmiracle # 推特用户名
 
 social:
   # 改为你的全名。
   # 这将会显示为帖子的默认作者以及页脚的版权所有者
-  name: Nichts Hsu
-  email: NichtsVonChaos@gmail.com # 邮箱地址
+  name: 0xmiracle
+  email: multilkyx@gmail.com # 邮箱地址
   links:
     # 第一个链接将会作为版权所有者的链接
     - https://0xmiracle.xyz/
