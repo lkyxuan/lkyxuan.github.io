@@ -829,8 +829,8 @@ $btn-mb: 0.5rem;
     li.nav-item {
       opacity: 0.9;
       width: 100%;
-      padding-left: 1rem;
-      padding-right: 1rem;
+      padding-left: 1.5rem;
+      padding-right: 1.5rem;
 
       a.nav-link {
         @include pt-pb(0.6rem);
@@ -852,7 +852,7 @@ $btn-mb: 0.5rem;
 
         span {
           font-size: 90%;
-          letter-spacing: 0.5rem;
+          letter-spacing: 0.1rem;
         }
       }
 
