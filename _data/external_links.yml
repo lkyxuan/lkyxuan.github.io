@@ -7,7 +7,7 @@
   automatic_name: true
   link: https://0xmiracle.xyz
 
-  icon: https://img.shields.io/badge/link-cyberight-orange
+  icon: https://img.shields.io/badge/link-cyberight-orange.svg
   # 是否使用 Iconfont 的图标字体
   use_iconfont: false
   name: CYBERIGHT
