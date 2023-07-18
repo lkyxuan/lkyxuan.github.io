@@ -1,6 +1,6 @@
 ---
 title: This is a feature, not a bug
-date: 2022-11-21 9:42:38 +0800
+date: 2022-11-22 9:42:38 +0800
 categories: [Invest, Myself]
 tags: [invest]     # TAG names should always be lowercase
 ---
