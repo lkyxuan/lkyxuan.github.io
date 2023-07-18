@@ -14,6 +14,7 @@
   # 为 true 时当且仅当图片无法加载时，使用名字替代。为 false 时始终显示名字。
   automatic_name: true
   link: https://cyberight.capital
+
 # 在下面添加更多外部链接
 # -
 #   icon: 
