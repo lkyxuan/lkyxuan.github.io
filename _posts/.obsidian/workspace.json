@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_remove_thi1.md",
+                "file": "2022-11-21-please_remove_this.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_remove_thi1.md",
+                "file": "2022-11-21-please_remove_this.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_remove_thi1.md",
+                "file": "2022-11-21-please_remove_this.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_remove_thi1.md"
+                "file": "2022-11-21-please_remove_this.md"
               }
             }
           }
@@ -155,10 +155,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "74b6177689deef53",
+  "active": "1083261ec39fdf98",
   "lastOpenFiles": [
+    "未命名",
+    "_remove_thi1.md",
     "2022-11-22-please_remove_this_This is a feature, not a bug.md",
-    "2022-11-21-please_remove_this.md",
-    "_remove_thi1.md"
+    "2022-11-21-please_remove_this.md"
   ]
 }
