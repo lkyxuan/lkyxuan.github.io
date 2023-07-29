@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Research/在文件里又如何.md",
+                "file": "Game Research/2022-11-21-please_remove_this.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Research/在文件里又如何.md",
+                "file": "Game Research/2022-11-21-please_remove_this.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Research/在文件里又如何.md",
+                "file": "Game Research/2022-11-21-please_remove_this.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Research/在文件里又如何.md"
+                "file": "Game Research/2022-11-21-please_remove_this.md"
               }
             }
           }
@@ -158,9 +158,9 @@
   "active": "74b6177689deef53",
   "lastOpenFiles": [
     "_remove_thi1.md",
-    "2022-11-21-please_remove_this.md",
+    "Game Research/2022-11-21-please_remove_this.md",
+    "2022-11-22-please_remove_this_This is a feature, not a bug.md",
     "Game Research/在文件里又如何.md",
-    "Game Research",
-    "2022-11-22-please_remove_this_This is a feature, not a bug.md"
+    "Game Research"
   ]
 }
