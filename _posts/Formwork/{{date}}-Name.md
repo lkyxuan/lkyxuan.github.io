@@ -1,6 +1,6 @@
 ---
 title: Please Remove This Post
-date: {date} 5:42:38 +0800
+date: {{date}} {{time}} +0800
 categories: [Test, Placeholder]
 tags: [test]     # TAG names should always be lowercase
 pin: true
