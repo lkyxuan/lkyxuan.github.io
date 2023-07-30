@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formwork/{{date}}-Name.md",
+                "file": "_remove_thi1.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formwork/{{date}}-Name.md",
+                "file": "_remove_thi1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formwork/{{date}}-Name.md",
+                "file": "_remove_thi1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formwork/{{date}}-Name.md"
+                "file": "_remove_thi1.md"
               }
             }
           }
@@ -169,12 +169,12 @@
   },
   "active": "34d13846c15c83bf",
   "lastOpenFiles": [
-    "Game Research/2022-11-22-research_please_remove_this.md",
-    "Game Research/2022-11-22-在文件里又如何.md",
-    "未命名.md",
     "Formwork/{{date}}-Name.md",
     "_remove_thi1.md",
-    "2022-This is a feature, not a bug.md",
+    "2023-7-31This is a feature, not a bug.md",
+    "Game Research/2022-11-22-在文件里又如何.md",
+    "Game Research/2022-11-22-research_please_remove_this.md",
+    "未命名.md",
     "Formwork",
     "Other notes",
     "Game Research"
