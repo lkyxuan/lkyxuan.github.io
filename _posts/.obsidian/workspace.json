@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Formwork/{date}_remove_thi1 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Formwork/{date}_remove_thi1 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Formwork/{date}_remove_thi1 1.md"
+              }
             }
           }
         ]
@@ -151,10 +155,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1083261ec39fdf98",
+  "active": "74b6177689deef53",
   "lastOpenFiles": [
-    "Formwork/{date}_remove_thi1 1.md",
     "未命名.md",
+    "Formwork/{date}_remove_thi1 1.md",
     "_remove_thi1.md",
     "2022-This is a feature, not a bug.md",
     "Formwork",
