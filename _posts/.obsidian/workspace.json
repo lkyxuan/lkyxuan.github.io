@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formwork/_remove_thi1 1.md",
+                "file": "Formwork/{date}_remove_thi1 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formwork/_remove_thi1 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formwork/_remove_thi1 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Formwork/_remove_thi1 1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,8 +153,9 @@
   },
   "active": "1083261ec39fdf98",
   "lastOpenFiles": [
+    "Formwork/{date}_remove_thi1 1.md",
+    "未命名.md",
     "_remove_thi1.md",
-    "Formwork/_remove_thi1 1.md",
     "2022-This is a feature, not a bug.md",
     "Formwork",
     "Other notes",
