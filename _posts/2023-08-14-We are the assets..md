@@ -1,8 +1,12 @@
 ---
 title: We are the assets.
 date: 2023-08-12 22:53 +0400
-categories: [Investement, theory]
-tags: [investment logic]     # TAG names should always be lowercase
+categories:
+  - Investement
+  - theory
+tags:
+  - investment
+  - logic
 pin: true
 ---
 
