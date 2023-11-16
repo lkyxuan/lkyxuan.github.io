@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formwork/{{date}}-Name.md",
-                "mode": "preview",
+                "file": "2023-08-01-这个笔记是如何构建的.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formwork/{{date}}-Name.md",
+                "file": "2023-08-01-这个笔记是如何构建的.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formwork/{{date}}-Name.md",
+                "file": "2023-08-01-这个笔记是如何构建的.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formwork/{{date}}-Name.md"
+                "file": "2023-08-01-这个笔记是如何构建的.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "16432f2b0cf838f7",
   "lastOpenFiles": [
-    "2023-7-31-This is a feature, not a bug.md",
-    "Formwork/{{date}}-Name.md",
+    "Game Research/test 双链.md",
     "2023-08-01-这个笔记是如何构建的.md",
     "2023-08-14-We are the assets..md",
+    "2023-7-31-This is a feature, not a bug.md",
+    "Formwork/{{date}}-Name.md",
     "Pasted image 20230814234522.png",
     "Game Research/2022-11-22-在文件里又如何.md",
     "Game Research/2022-11-22-research_please_remove_this.md",
