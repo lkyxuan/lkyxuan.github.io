@@ -27,16 +27,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-31-模版.md",
+                "file": "2023-08-01-这个笔记是如何构建的.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-01-31-模版"
+              "title": "2023-08-01-这个笔记是如何构建的"
+            }
+          },
+          {
+            "id": "0c28f595c421301f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-31-模版.md",
+                "file": "2023-08-01-这个笔记是如何构建的.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2024-01-31-模版 的反向链接列表"
+              "title": "2023-08-01-这个笔记是如何构建的 的反向链接列表"
             }
           },
           {
@@ -128,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-31-模版.md",
+                "file": "2023-08-01-这个笔记是如何构建的.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2024-01-31-模版 的出链列表"
+              "title": "2023-08-01-这个笔记是如何构建的 的出链列表"
             }
           },
           {
@@ -157,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-31-模版.md",
+                "file": "2023-08-01-这个笔记是如何构建的.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2024-01-31-模版 的大纲"
+              "title": "2023-08-01-这个笔记是如何构建的 的大纲"
             }
           }
         ]
@@ -183,12 +195,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d01b2f0bb716df77",
+  "active": "0c28f595c421301f",
   "lastOpenFiles": [
-    "2023-08-14-We are the assets..md",
     "2023-7-31-This is a feature, not a bug.md",
-    "2023-08-01-这个笔记是如何构建的.md",
     "2024-01-31-模版.md",
+    "2023-08-14-We are the assets..md",
+    "2023-08-01-这个笔记是如何构建的.md",
     "未命名.md",
     "Game Research/test 双链.md",
     "Formwork/{{date}}-Name.md",
