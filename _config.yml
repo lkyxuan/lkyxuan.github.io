@@ -32,7 +32,7 @@ github:
   username: lkyxuan # Github 用户名
 
 twitter:
-  username: 0xmiracle # 推特用户名
+  username: 0xqiji # 推特用户名
 
 social:
   # 改为你的全名。
@@ -42,8 +42,8 @@ social:
   links:
     # 第一个链接将会作为版权所有者的链接
     - https://0xmiracle.xyz/
-    - https://twitter.com/NichtsHsu # 推特主页
-    - https://github.com/NichtsHsu # Github 主页
+    - https://twitter.com/0xqiji # 推特主页
+    - https://github.com/lkyxuan # Github 主页
     # 取消注释以添加更多链接
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
